@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">YOUR TRAVEL LTD</string>
+    <string name="welcome_to_your_travel_ltd">Welcome to Your Travel Ltd</string>
+    <string name="privileged_guuest_login">Privileged Guest Login</string>
+    <string name="privileged_guest_login">PRIVILEGED GUEST \n LOGIN</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="log_in">Log in</string>
+    <string name="help">If You Forget Your Password. Contact With Castomer Care Or Call at +8801877722299</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tanvir_zaman_prince">Tanvir Zaman Prince</string>
+    <string name="_0152512">0152512</string>
+    <string name="pg_info">PG INFO</string>
+    <string name="contact">CONTACT</string>
+    <string name="point_details">POINT DETAILS</string>
+    <string name="payment_details">PAYMENT DETAILS</string>
+    <string name="booking_request">BOOKING REQUEST</string>
+    <string name="_120_yr">120/yr</string>
+    <string name="_30_yr">30/yr</string>
+    <string name="_50_yr">50/yr</string>
+    <string name="_70_yr">70/yr</string>
+    <string name="_90_yr">90/yr</string>
+    <string name="todo">TODO</string>
+    <string name="contact_information">CONTACT INFORMATION</string>
+    <string name="holiday">HOLIDAY</string>
+    <string name="add_ons_status">Add-ons Status</string>
+    <string name="holiday_details">HOLIDAY DETAILS</string>
+    <string name="make_a_request_by_filling_this_form">MAKE A REQUEST BY FILLING THIS FORM</string>
+    <string name="show_details">Show Details</string>
+    <string name="status">Status</string>
+    <string name="amc">AMC</string>
+    <string name="years">Years</string>
+    <string name="yearly_amc">YEARLY AMC</string>
+    <string name="pay_amc">PAY AMC</string>
+    <string name="balance_point">BALANCE POINT</string>
+    <string name="used_point">USED POINT</string>
+    <string name="total_points">TOTAL POINTS</string>
+
+
+</resources>

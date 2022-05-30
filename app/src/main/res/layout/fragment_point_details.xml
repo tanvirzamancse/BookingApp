@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10sp"
+    tools:context=".View.Fragment.Point_Details">
+
+    <TextView
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff1d72"
+        android:padding="7sp"
+        android:text="@string/point_details"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="30sp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:background="#5E7D7979"
+                    android:text="Yearly Point"
+                     />
+                <TextView
+                    android:id="@+id/Yearly_Point"
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#247D7979"
+                    android:text="Yearly Point"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#5E7D7979"
+                    android:text="Years"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/Years"
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#247D7979"
+                    android:text="Years"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#5E7D7979"
+                    android:text="Total Point"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/Total_Point"
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#247D7979"
+                    android:text="Total Point"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#5E7D7979"
+                    android:text="Yearly AMC"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/Yearly_AMC"
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#247D7979"
+                    android:text="@string/show_details"
+                    android:textAlignment="center"
+                    android:textColor="#ff1d72"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#5E7D7979"
+                    android:text="Point Details"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/Point_Details"
+                    android:layout_width="0sp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="#247D7979"
+                    android:padding="5sp"
+                    android:text="@string/show_details"
+                    android:textAlignment="center"
+                    android:textColor="#ff1d72"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0sp"
+                    android:layout_weight="1"
+                    android:layout_height="fill_parent"
+                    android:padding="5sp"
+                    android:background="#5E7D7979"
+                    android:text="Add-ons Status"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/Add_ons_Status"
+                    android:layout_width="0sp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="#247D7979"
+                    android:padding="5sp"
+                    android:text="@string/add_ons_status"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

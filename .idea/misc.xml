@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Office Project/Apogee/PGYTLPGLOGIN/app/src/main/res/layout/activity_splash_screen.xml" value="0.1527777777777778" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_blue.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_facebook.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_green.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_instagram.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_orange.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_pink_red.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_rectangle.xml" value="0.22135416666666666" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/ads_shape.xml" value="0.22135416666666666" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/edittext_shape.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/header_shape.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/ic_baseline_arrow_circle_right_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/mainactivity_header.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/drawable/point_background.xml" value="0.35625" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout-land/activity_splash_screen.xml" value="0.3921875" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/activity_splash_screen.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/fragment_booking_request.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/fragment_contact.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/fragment_payment_details.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/fragment_pg_info.xml" value="0.18" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/fragment_point_details.xml" value="0.3359375" />
+        <entry key="..\:/PGYTLPGLOGIN/app/src/main/res/layout/row.xml" value="0.1" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_blue.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_rectangle.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/ads_shape.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/edittext_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/header_shape.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/ic_baseline_arrow_circle_right_24.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/image_shape.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/mainactivity_header.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/out.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/point_background.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/tab_shape.xml" value="0.35625" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout-land/activity_splash_screen.xml" value="0.5769230769230769" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_point_details.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_splash_screen.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_yearly_amc.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/booking_reques_rowt.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_booking_request.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_contact.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_holiday.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_payment_details.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_pg_info.xml" value="0.3359375" />
+        <entry key="..\:/Users/Apogee Digital - Web/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_point_details.xml" value="0.3359375" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_blue.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_facebook.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable-v24/shape_round_home_items_pink_red.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/ads_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/drawable/holiday_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_holiday.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/booking_reques_rowt.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_booking_request.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_contact.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_holiday.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_payment_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_pg_info.xml" value="0.2" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/fragment_point_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tanvir/Desktop/PGYTLPGLOGIN/app/src/main/res/layout/row.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
